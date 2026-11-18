@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Aleksei Kukharev**
 
-### **Tech Lead • Senior Software Engineer • AI Engineer**
+### **AI Solution Architect • Tech Lead • Staff Software Engineer • AI Engineer**
 
 I build intelligent, scalable, cloud-native platforms.
 With **8+ years** of experience in .NET, Python, distributed systems, and AI engineering, I combine strong architecture skills with hands-on delivery, technical leadership, and a deep focus on reliability, performance, and simplicity.
@@ -11,7 +11,7 @@ With **8+ years** of experience in .NET, Python, distributed systems, and AI eng
 
 I specialize in designing and delivering **high-performance microservices**, **AI-powered systems**, and **cloud-native architectures** using:
 
-* **C#/.NET**, Python
+* **C#/.NET**, **Python**
 * **Kafka, RabbitMQ, Redis, SQL, NoSQL**
 * **Docker, Kubernetes, CI/CD, Observability**
 * **RAG/CAG pipelines, vector DBs, AI agents (text + voice)**
